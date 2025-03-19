@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: var(--poppins);
 }
 
 :root {
@@ -84,6 +85,7 @@ section .nav-head li a {
     font-weight: 500;
     font-size: 15px;
     color: #000;
+    list-style-type: none;
     cursor: pointer;
 }
 
@@ -396,6 +398,7 @@ section.form-head form button.btn-unggah {
 
 footer {
     display: flex;
+    flex-wrap: wrap;
     background-color: #131010;
     justify-content: space-between;
     padding: 2rem;
@@ -511,4 +514,10 @@ footer .footer-form form button {
     font-weight: 600;
     border: none;
     cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+    section .nav-head ul {
+        display: none;
+    }
 }
