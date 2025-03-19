@@ -1,0 +1,22 @@
+{
+    "berita" : [
+        {
+            "tags":"event",
+            "judul":"Shooting Range Anak Rimba",
+            "deskripsi":"Opening shooting range airsoft Anak Rimba di Sam Poo Kong, Kota Semarang",
+            "image":"assets/event1.jpg"
+        },
+        {
+            "tags":"",
+            "judul":" Ngabuburit Bersama Airsoft & Drone Community",
+            "deskripsi":"Minggu 16 Maret 2025 di Ruko Forest Hill, Citraland BSB City",
+            "image":"assets/event2.jpg"
+        },
+        {
+            "tags":"",
+            "judul":"Event Arcade 3 2024",
+            "deskripsi":"Free Registrasi, daftarkan diri anda 16 September 2024 - 20 November 2024",
+            "image":"assets/event3.jpg"
+        }
+    ]
+}

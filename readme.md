@@ -2,10 +2,14 @@
 
 Website App Informasi Kegiatan Airsoft di Indonesia
 
-Dibangun dengan HTML5 dan CSS3
+Dibangun dengan HTML5,CSS3
 
 Dikembangkan Sebagai Pemenuhan Tugas Mini Bootcamp Dibimbing 12
 
-# Masih Dalam Development
+- Masih Dalam Pre Development
 
-# Dev = Salahudin Richard Surya Ramadhan
+Fitur tidak sepenuhnya terpakai 
+
+-Form
+
+Dev = Salahudin Richard Surya Ramadhan
